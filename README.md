@@ -17,4 +17,4 @@ Implements a rather simple logic, with 3 levels with random number of coin packs
 
 It was a project made for a lesson in the MSc I was participating at the time.
 
-![](Screenshot.png)
+![](Screenshot.PNG)
